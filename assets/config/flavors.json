@@ -1,0 +1,11 @@
+[
+  {
+    "name": "prod",
+    "baseUrl": "https://newsapi.org/v2",
+    "logLevel": "ERROR",
+    "applyMock": false,
+    "params": {
+      "key": "prod value"
+    }
+  }
+]
